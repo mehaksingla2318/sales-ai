@@ -4,3 +4,4 @@ pandas
 numpy
 groq
 python-multipart
+python-dotenv
